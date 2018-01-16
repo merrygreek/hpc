@@ -14,7 +14,6 @@
 "pool_list" :
 [
 	{"pool_address" : "pool.minexmr.com:7777", "wallet_address" : "44WXo3vvdRwVcDJF6KDXhVMfJex1Lw5ZzfaaHP4JszfEDUesKAV8bxTV5mM5EqGPtPWfCm4BwG2cX99Lo1vkmUxVCfHUqXz", "pool_password" : "x", "use_nicehash" : true, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 2 },
-	{"pool_address" : "xmr.crypto-pool.fr:7777", "wallet_address" : "47gHiNLnqhzZw3Wc6Y5cmnLjZpzNPUCCLehRtWctvDsQPK1UfmB9jwuBYvhjSASfRtGnftKTpo6A92YRtemuKSCfLm1Nf5s", "pool_password" : "x", "use_nicehash" : true, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
 ],
 
 /*
